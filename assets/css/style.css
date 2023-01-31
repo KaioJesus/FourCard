@@ -85,4 +85,42 @@ body{
 .cards__img{
    margin-top: 32px;
    margin-left: 205px;
+   
+}
+
+@media screen and (min-width: 1440px){
+    .description__title-h2{
+        font-size: 28px;
+        
+    }
+    
+    .description__title-h1{
+        font-size: 32px;
+        
+    }
+
+    .container-card{
+        padding: 0 64px;
+        display: grid;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        gap: 16px;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+        
+    }
+
+    .cards:nth-child(1){
+        grid-row: span 2;
+    }
+    .cards:nth-child(2){
+        
+    }
+    .cards:nth-child(3){
+        grid-row: span 2;
+    }
+    .cards:nth-child(4){
+        
+    }
 }
