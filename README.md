@@ -12,9 +12,9 @@ Esta é uma solução ao [Four card feature section challenge on Frontend Mentor
 
 ### Telas
 
-![PC results](.github/desktop.png)
-![Cell results](.github/mobile-1.png)
-![Cell results](.github/mobile-2.png)
+![PC results](assets/.github/desktop.png)
+![Cell results](assets/.github/mobile-1.png)
+![Cell results](assets/.github/mobile-2.png)
 
 ### Links
 
